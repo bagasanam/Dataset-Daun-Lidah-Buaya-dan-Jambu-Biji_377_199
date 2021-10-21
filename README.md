@@ -21,7 +21,7 @@ Program kecerdasan buatan image classification -herbal leaves
 * Muhamad Bagas Khoirul Anam
   * bagasanam51@gmail.com
 * Ronaldi
-  *ronaldix07@gmail.com
+  * ronaldix07@gmail.com
 
 
 
