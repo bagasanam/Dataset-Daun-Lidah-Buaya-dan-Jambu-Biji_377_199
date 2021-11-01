@@ -4,7 +4,7 @@ Kecerdasan Buatan
 
 ## Description
 
-Program kecerdasan buatan image classification -herbal leaves
+Program kecerdasan buatan image classification herbal leaves
 
 ## Getting Started
 
